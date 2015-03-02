@@ -1,0 +1,20 @@
+---Running tests with the synthetic workload generator---
+
+Sequential read (250K I/Os): average SSD response time should be around 0.132 ms
+ssd Response time average: 	0.132511
+Sequential write (250K I/Os): average SSD response time should be around 0.310 ms
+ssd Response time average: 	0.310895
+Sequential write (5M I/Os): average SSD response time should be around 0.334 ms
+ssd Response time average: 	0.334365
+Random read (250K I/Os): average SSD response time should be around 0.136 ms
+ssd Response time average: 	0.136118
+Random write (250K I/Os): average SSD response time should be around 0.329 ms
+ssd Response time average: 	0.329458
+Random write (5M I/Os): average SSD response time should be around 0.593 ms
+ssd Response time average: 	0.593438
+---Running tests with the real traces---
+
+IOzone: average SSD response time should be around 6.394276 ms
+ssd Response time average: 	6.394276
+Postmark: average SSD response time should be around 4.140330 ms
+ssd Response time average: 	4.140330

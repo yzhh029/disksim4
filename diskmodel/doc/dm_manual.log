@@ -1,0 +1,411 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.3.2)  2 MAR 2015 15:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dm_manual.tex
+(./dm_manual.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./dm_manual.aux)
+\openout1 = `dm_manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+LaTeX Warning: No \author given.
+
+(./dm_intro.tex) (./dm_units.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 25.
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+) (./dm_api.tex [2] [3] [4] [5] [6] [7]) (./dm_param.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+(./dm_disk_param.tex)
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--23
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--23
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--23
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--23
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--23
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--23
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+(/home/yzhh/disksim-master/diskmodel/doc/../modules/dm_layout_g1_param.tex)
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--35
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--35
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--35
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--35
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--35
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--35
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+(/home/yzhh/disksim-master/diskmodel/doc/../modules/dm_layout_g1_zone_param.tex
+)
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--40
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--40
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+(/home/yzhh/disksim-master/diskmodel/doc/../modules/dm_mech_g1_param.tex
+Underfull \hbox (badness 1009) in paragraph at lines 15--15
+\OT1/cmr/m/n/10 in-di-cates a fixed per-request ac-cess time (i.e., ac-tual me-
+chan-i-cal ac-tiv-ity is not mod-eled),
+ []
+
+)
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--48
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--48
+
+ []
+
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+(/home/yzhh/disksim-master/diskmodel/doc/../modules/dm_layout_g2_param.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+(/home/yzhh/disksim-master/diskmodel/doc/../modules/dm_layout_g2_zone_param.tex
+)
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--64
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--64
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+(/home/yzhh/disksim-master/diskmodel/doc/../modules/dm_layout_g4_param.tex)
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--75
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--75
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--75
+[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--75
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+) [15] (./dm_bib.tex [16] [17] [18]) (./dm_manual.aux) ) 
+Here is how much of TeX's memory you used:
+ 310 strings out of 495029
+ 4214 string characters out of 6181524
+ 74875 words of memory out of 5000000
+ 3557 multiletter control sequences out of 15000+600000
+ 8409 words of font info for 30 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,9n,17p,179b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on dm_manual.dvi (18 pages, 66732 bytes).
