@@ -1,3 +1,10 @@
+Forked from [Offical Repo](https://github.com/benh/disksim)
+
+  * FIXED COMPILING ERROR (like "sqrt")
+  * tested in ubuntu 14 32bit
+  
+# Original README
+
 
 This directory contains release 4.0 of the DiskSim storage subsystem
 simulator.  Check out the doc directory for he corresponding reference 
